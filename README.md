@@ -1,7 +1,3 @@
 "# surya" 
 "# surya" 
-"# surya" 
-"# surya" 
-"# surya" 
-"# surya" 
-"# surya" 
+
